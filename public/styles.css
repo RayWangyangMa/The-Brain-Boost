@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+link {
+  font-family: "Montserrat", sans-serif;
+}
 html {
   font-family: "Montserrat", sans-serif;
 }

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/The-Brain-Boost/static/js/main.db462997.js",
-    "index.html": "/The-Brain-Boost/index.html",
-    "main.db462997.js.map": "/The-Brain-Boost/static/js/main.db462997.js.map"
+    "main.js": "/the-brain-boost/static/js/main.db462997.js",
+    "index.html": "/the-brain-boost/index.html",
+    "main.db462997.js.map": "/the-brain-boost/static/js/main.db462997.js.map"
   },
   "entrypoints": [
     "static/js/main.db462997.js"
